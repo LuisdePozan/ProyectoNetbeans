@@ -18,5 +18,6 @@ public class Proyecto1 {
         System.out.println("Otro mensaje por consola");
         System.out.println("Modificado mensaje por consola");
         System.out.println("Modificado otra vez mensaje por consola");
+        System.out.println("Modificado otro mensaje por consola");
     
 }
